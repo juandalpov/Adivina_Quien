@@ -1,7 +1,7 @@
 # Adivina Quién
 
 ## Descripción general
-Esta es una versión en consola del clásico juego Adivina Quién, desarrollada completamente en Python sin uso de Programación Orientada a Objetos. El sistema carga una base de datos local y permite al usuario descubrir el personaje secreto mediante preguntas clave.
+Esta es una versión en consola del clásico juego Adivina Quién, desarrollada completamente en Python. El sistema carga una base de datos local y permite al usuario descubrir el personaje secreto mediante preguntas clave.
 
 ## Organización del Proyecto
 * `main.py`: Punto de entrada que ejecuta el juego.
