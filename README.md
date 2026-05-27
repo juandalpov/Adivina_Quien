@@ -16,3 +16,4 @@ Ubicado en la raíz del proyecto, ejecuta el siguiente comando en tu terminal:
 ## Desarrolado por 
 Juan David Londoño Poveda 
 Juan Jose Acosta Segura
+(Gracias por tanto y perdon por tan poco 🙌🙌)
