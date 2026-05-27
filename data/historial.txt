@@ -1,0 +1,4 @@
+Jugador: juan david | Resultado: perdió | Personaje: Isabela | Preguntas usadas: 9
+Jugador: juan david | Resultado: perdió | Personaje: Carlos | Preguntas usadas: 5
+Jugador: Acosta | Resultado: perdió | Personaje: Zharev | Preguntas usadas: 6
+Jugador: Nicolas | Resultado: perdió | Personaje: Juan David | Preguntas usadas: 4

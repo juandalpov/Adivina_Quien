@@ -1,0 +1,12 @@
+nombre,genero,cabello,gafas,sombrero,barba,ojos
+Ana,femenino,negro,no,no,no,cafes
+Carlos,masculino,castano,si,no,si,verdes
+Luisa,femenino,rubio,si,si,no,azules
+Maria Isabel,femenino,negro,si,no,no,cafes
+Luigi,masculino,negro,no,si,si,azules
+Acosta,masculino,castano,si,no,no,verdes
+Juan Jose,masculino,rubio,no,no,si,cafes
+Nicolas,masculino,negro,si,no,si,cafes
+Zharev,masculino,rubio,si,no,no,azules
+Isabela,femenino,castano,no,si,no,verdes
+Juan David,masculino,negro,si,no,no,cafes
